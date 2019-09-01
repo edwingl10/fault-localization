@@ -1,0 +1,3 @@
+testTwoMethods(com.google.javascript.jscomp.CrossModuleMethodMotionTest)
+testClosureVariableReads3(com.google.javascript.jscomp.CrossModuleMethodMotionTest)
+testFunctionArguments16(com.google.javascript.jscomp.TypeCheckTest)
